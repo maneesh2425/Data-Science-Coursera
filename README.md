@@ -1,2 +1,2 @@
-# Data-Science-Coursera
+# datasciencecousera
 data scientist's tool box
